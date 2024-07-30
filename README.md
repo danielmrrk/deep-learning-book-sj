@@ -5,4 +5,4 @@
 </p>
 
 Deep Learning exercise solutions from the book "understanding deep learning" from Simon J.D. Prince.
-Subsets of solutions are available on the website <>.
+Subsets of solutions are available on the website <a href=https://udlbook.github.io/udlbook/>https://udlbook.github.io/udlbook/</a>.
