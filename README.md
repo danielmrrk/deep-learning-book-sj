@@ -1,5 +1,9 @@
 # Understand Deep Learning from Simon J.D. Prince
 
+<p align="center">
+  <img src="assets/udlbook-cover.jpg">
+</p>
+
 <p align="left">
   <img alt="Static Badge" src="https://hits.dwyl.com/danielmrrk/deep-learning-book-sj.svg?style=flat-square">
 </p>
